@@ -1,5 +1,4 @@
 # Portfolio
-Para crear un portfolio utilizando Ruby on Rails y Angular, puedes utilizar el siguiente stack tecnológico:
 
 1. **Backend: Ruby on Rails**
    - **Ruby**: Lenguaje de programación.
